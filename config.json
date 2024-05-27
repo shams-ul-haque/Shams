@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/theshams0",
+    "proud_uri": "mysql://root:@localhost/theshams0",
+    "fb_url": "https://web.facebook.com/shamsulhaque011",
+    "gm_url": "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shams.0111100@gmail.com",
+    "wt_url": "https://wa.me/923082093967",
+    "blog_name": "BatAndByte",
+    "blog_tagline": "Where bat meets byte, excellence follows",
+    "fot_tagline": "",
+    "gmail_user": "Shams.0111100@gmail.com",
+    "gmail_pass": "gpud uuwo qzmi hgjk",
+    "about_sb_title": "Empowering Ideas, Transforming Futures",
+    "about_cnt": "Shams ul Haque is an exemplary figure in the realm of social media, wielding a profound understanding of its intricacies and potentials. With a wealth of experience as a social media expert, he navigates the digital landscape with finesse and innovation. Shams ul Haque is renowned for his ability to craft compelling online strategies tailored to diverse audiences, leveraging his expertise in emerging trends and consumer behavior. Through meticulous analysis of platforms and data, he drives engagement and amplifies brand presence effectively, setting benchmarks in the field. Beyond his technical acumen, Shams ul Haque possesses a rare blend of creativity and strategic thinking, enabling him to spearhead impactful campaigns that resonate deeply with audiences. His contributions to the ever-evolving realm of digital communication underscore his status as a trailblazer, shaping the trajectory of online discourse and engagement.",
+    "number_of_posts": 2,
+    "admin_user":"shams",
+    "admin_password":678678,
+    "upload_location":"E:\\27-04-24\\uploadded"
+
+
+
+  }
+}
